@@ -48,7 +48,7 @@ Status key:
 | 11 | English materials | ✅ | All copy is in English |
 | 12 | Original work and licences | ✅ | Code written for this project. Template from `reddit/devvit-template-react` (BSD-3-Clause, attributed). No third-party art, fonts or audio: all visuals are drawn in code, and the sounds are synthesised |
 | 13 | Created during the submission period | ✅ | Research started Nov 16. The app was scaffolded Nov 16–21, 2026 |
-| 14 | Public repo (optional) | ⬜ | Not created. TODO: create a public GitHub repo if you want to link it |
+| 14 | Public repo (optional) | ✅ | https://github.com/thosuperman/two-lamps (public) |
 | 15 | Logged-out judges can reach the demo | 🟡 | Logged-out **mobile web** showed an "Unreviewed Content" wall for the new dev subreddit (seen Nov 20). TODO: open r/TwoLampsGame in a private window, and tell judges to use desktop or the Reddit app |
 | 16 | Free, unrestricted access until Dec 16 | ✅ | No paywall, no payments permission. Keep the subreddit public and the app installed until Dec 16 |
 | 17 | Devvit Rules (no on-the-nose Reddit theming, no scroll traps, user actions only on explicit tap) | ✅ | No Snoo or karma theming. Inline card verified not to trap scroll. Comments only from an explicit "Post to comments" tap, labelled "from your account". Flair is opt-in |

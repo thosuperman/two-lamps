@@ -13,7 +13,7 @@ Every value below is ready to paste. Lines marked **TODO** need your account acc
 | **Demo subreddit** | https://www.reddit.com/r/TwoLampsGame/ |
 | **Demo post running the game** | https://www.reddit.com/r/TwoLampsGame/comments/1y17t8u/ (Two Lamps #4 · Full House). A new post appears daily at 00:00 UTC, so you can also link the newest post |
 | **Video link (YouTube, public, < 1 min)** | **TODO:** upload `submission/video/demo.mp4` to YouTube as **Public** and paste the URL |
-| Repository (optional) | **TODO:** public GitHub URL, if you publish the repo |
+| Repository (optional) | https://github.com/thosuperman/two-lamps |
 | Image gallery | Upload `submission/screenshots/01…06` and `submission/media/cover.png` (thumbnail) |
 | Feedback survey (optional) | **TODO:** complete Reddit's developer survey if you want to be considered for the Feedback prize |
 
