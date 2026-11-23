@@ -39,7 +39,7 @@ Status key:
 | 2 | Daily game with a satisfying daily loop | ✅ | A deterministic puzzle each UTC day, with a twist per weekday. Cron creates the post at 00:00 UTC (it ran unattended on Nov 19 and Nov 20) |
 | 3 | Installs and runs consistently | ✅ | Running on r/two_lamps_dev_dev (playtest) and installed on r/TwoLampsGame (v0.0.2). Played end to end on an iPhone 17 simulator in real Reddit mobile web |
 | 4 | Text description of features | 🟡 | Ready in `full-description.md`; paste it into Devpost |
-| 5 | Video under 1 minute, public on YouTube or Vimeo | ✅ | https://youtu.be/HnOmt2mEe-A (57.0 s, real footage) |
+| 5 | Video under 1 minute, public on YouTube or Vimeo | 🟡 | https://youtu.be/HnOmt2mEe-A is uploaded, but it was **Private** when checked on Nov 23. Set it to **Public** |
 | 6 | App listing link | ✅ | https://developers.reddit.com/apps/two-lamps (uploaded Nov 20, 2026 UTC) |
 | 7 | README.md in the app root | ✅ | `app/README.md`: how to play, twists, screenshots, architecture, setup |
 | 8 | Public demo subreddit with fewer than 200 members | ✅ | https://www.reddit.com/r/TwoLampsGame/, created Nov 20, 2026 UTC, **public**, 1 member. `two-lamps` v0.0.2 installed |
