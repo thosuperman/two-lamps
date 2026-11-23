@@ -12,7 +12,7 @@
 | `devpost/technical-details.md` | Stack, architecture, par maths, Redis, permissions | ✅ |
 | `devpost/submission-fields.md` | Every form field, judge testing steps, disclosures | ✅ (3 TODOs need your accounts) |
 | `devpost/requirements-checklist.md` | Official rules with sources, and the compliance table | ✅ |
-| `video/demo.mp4` | **57.0 s**, 1920×1080, real footage + voiceover | ✅ rendered · 🟡 upload to YouTube as **Public** |
+| `video/demo.mp4` | **57.0 s**, 1920×1080, real footage + voiceover | ✅ rendered · ✅ on YouTube: https://youtu.be/HnOmt2mEe-A |
 | `video/subtitles.srt` | English captions, timed to the actual voiceover | ✅ |
 | `video/storyboard.md` · `demo-script.md` · `voiceover.md` | Scene list, recording plan, YouTube title and description, VO lines | ✅ |
 | `video/make_video.py` · `make_stills.py` | Reproducible edit, from the raw recording to the final files | ✅ |
@@ -26,6 +26,7 @@
 - **Play:** https://www.reddit.com/r/TwoLampsGame/
 - **Demo post:** https://www.reddit.com/r/TwoLampsGame/comments/1y17t8u/
 - **App listing:** https://developers.reddit.com/apps/two-lamps
+- **Video:** https://youtu.be/HnOmt2mEe-A
 
 ## Screenshot captions
 

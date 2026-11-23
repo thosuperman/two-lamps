@@ -10,7 +10,7 @@ A daily puzzle that lives inside a Reddit post, built on Reddit's Developer Plat
 <p align="center">
   <a href="https://www.reddit.com/r/TwoLampsGame/">▶ Play on r/TwoLampsGame</a> ·
   <a href="https://developers.reddit.com/apps/two-lamps">App listing</a> ·
-  <a href="submission/video/demo.mp4">Demo video (57 s)</a>
+  <a href="https://youtu.be/HnOmt2mEe-A">Demo video (57 s)</a>
 </p>
 
 ---
